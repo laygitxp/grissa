@@ -1,2 +1,2 @@
 # grissa
-a website for gris sa
+gris sa
